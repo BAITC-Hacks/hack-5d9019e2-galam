@@ -1,0 +1,30 @@
+{
+  "plan": [
+    {
+      "actionId": "M2"
+    },
+    {
+      "actionId": "M3",
+      "districtId": "nura"
+    },
+    {
+      "actionId": "M8",
+      "districtId": "nura"
+    },
+    {
+      "actionId": "M9",
+      "districtId": "nura"
+    },
+    {
+      "actionId": "M14"
+    }
+  ],
+  "score": 57.236734999999996,
+  "spent": 98,
+  "method": "exhaustive",
+  "complete": true,
+  "evaluated": 842790,
+  "validCandidates": 694395,
+  "elapsedMs": 9041.1878,
+  "datasetSha256": "915a589951bb4d3f247469f120b483149735caa860a636ab39d7e7009b97949e"
+}
